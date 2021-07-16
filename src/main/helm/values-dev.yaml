@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-h7m5z
+  namespace: devx-helloworld-springboot-h7m5z-service-dev
+  image:
+    name: vad1mo/hello-world-rest
+    tag: v0.0.1
